@@ -1,0 +1,22 @@
+{
+  "schema_version": "candidate_profile.v1",
+  "candidate_id": "2f6f594a-f7de-4b11-9f64-6baa78bf5ab1",
+  "full_name": "Avery Morgan",
+  "email": "avery.morgan@example.test",
+  "phone": "+14155550123",
+  "location": "Example City, Exampleland",
+  "summary": "Backend engineer focused on dependable hiring workflows.",
+  "links": [{"label": "Portfolio", "url": "https://portfolio.example.test/avery"}],
+  "skills": [
+    {"name": "Python", "years_experience": 4},
+    {"name": "SQL", "years_experience": 3.5}
+  ],
+  "experience": [{
+    "company": "Sample Systems",
+    "title": "Software Engineer",
+    "start_date": "2022-04-01",
+    "is_current": true,
+    "highlights": ["Built synthetic-data validation tools."]
+  }],
+  "education": [{"institution": "Example Institute of Technology", "qualification": "BSc Computer Science", "graduation_year": 2021}]
+}
